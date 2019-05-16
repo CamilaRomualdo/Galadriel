@@ -31,7 +31,7 @@ Este sistema, será composto de vários módulos que terá por finalidade a assi
 10.	Animais de Estimação.
 
 
-> Cada um desses subsistemas tem vários outros conjuntos de manipulação.
+> Cada um desses subsistemas tem vários outros conjuntos de manipulação. 
 
 
 ### MODULO GALADRIEL - Construção de Avatares Femininos
@@ -71,9 +71,6 @@ e outras coisas que você achar que o jogador deverar preencher especificamente 
 - Camila Romualdo
 
 - Max Caldas
-
-## Lincença
-
 
 ## Agradecimentos
 
