@@ -1,14 +1,8 @@
-﻿# Galadriel
+# Sistema ZOID
 
-Projeto referente a disciplina de Progrmação II, do 4º periodo do curso Análise e Desenvolvimento de Sistemas da Universidade Estácio de Sá; orientado pelo o professor André Luíz Braga.
+Este sistema, é composto de vários módulos que terá por finalidade a assistência e manipulação de jogos de RPG (Role Playing Games).  Os módulos serão desenvolvidos por times separados mantendo a integração através dos paradigmas de polimorfismo e herança.
 
-## SISTEMA ZOID
-
-#### Descrição 
-
-Este sistema, será composto de vários módulos que terá por finalidade a assistência e manipulação de jogos de RPG (Role Playing Games).  Os módulos serão desenvolvidos por times separados mantendo a integração através dos paradigmas de polimorfismo e herança.
-
-> O sistema “Zoid” é composto dos seguintes módulos e funcionalidades
+##### O sistema “Zoid” é composto dos seguintes módulos e funcionalidades
 
 1.	Gerencia Geral do Sistema.
 
@@ -30,9 +24,7 @@ Este sistema, será composto de vários módulos que terá por finalidade a assi
 
 10.	Animais de Estimação.
 
-
-> Cada um desses subsistemas tem vários outros conjuntos de manipulação. 
-
+##### Cada um desses subsistemas tem vários outros conjuntos de manipulação. 
 
 ### MODULO GALADRIEL - Construção de Avatares Femininos
 
@@ -68,12 +60,12 @@ e outras coisas que você achar que o jogador deverar preencher especificamente 
 
 ## Autores
 
-- Camila Romualdo
+- [Camila Romualdo](https://github.com/camilaromualdo)
 
-- Max Caldas
+- [Max Caldas](https://github.com/maximuslaws)
 
 ## Agradecimentos
 
-- André Luiz Braga 
+- [André Luiz Braga](https://github.com/andrelb2000)
 
-- Nathalia Mello
+- [Nathalia Mello](https://github.com/)
