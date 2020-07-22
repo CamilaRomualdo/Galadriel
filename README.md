@@ -68,4 +68,4 @@ e outras coisas que você achar que o jogador deverar preencher especificamente 
 
 - [André Luiz Braga](https://github.com/andrelb2000)
 
-- [Nathalia Mello](https://github.com/)
+- [Nathalia Mello](https://github.com/nathaliamello)
